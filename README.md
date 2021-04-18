@@ -1,13 +1,18 @@
-# Dream-Coding
+# DREAM CODING STUDYING
 
-## heading 2
-### heading 3
+## Dream Coding
 
+|Dreadm|Coding|
+|--:|--:|
+|My| aaa|
+|Code|bbb|
 
-This is ** Dream Coding ** readme file.
-Hello * Congrat *
+___
 
+```c
+print("Hello world\n");
+```
+print("Hello world\n");
 
-Clink [here](http://www.google.com)
+Click [here]("http://www.google.com")
 
-## d
