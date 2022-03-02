@@ -12,6 +12,5 @@ ___
 ```c
 print("Hello world\n");
 ```
-print("Hello world\n");
 
 Click [Here]("http://www.google.com")
